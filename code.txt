@@ -1,0 +1,21 @@
+LOAD r1, 80
+LOAD r2, 100
+STORE r1, [0]
+STORE r2, [1]
+LOAD r1, 20
+LOAD r2, 60
+STORE r1, [2]
+STORE r2, [3]
+
+STORE r1, [4]
+STORE r2, [5]
+
+STORE r1, [6]
+STORE r2, [7]
+
+ADD r1, [0]
+ADD r2, [1]
+
+
+
+
